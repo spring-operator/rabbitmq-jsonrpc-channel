@@ -9,13 +9,13 @@ None are provided by the RabbitMQ team (see above).
 
 ## Binary Builds for RabbitMQ 3.5.x
 
-Available from the [Community Plugins archive](http://www.rabbitmq.com/community-plugins/),
-as well as its dependencies, [rabbitmq_jsonrpc](http://www.rabbitmq.com/community-plugins/v3.5.x/rabbitmq_jsonrpc-3.5.x-c34cb475.ez) and [erlang-rfc4627](http://www.rabbitmq.com/community-plugins/v3.5.x/rfc4627_jsonrpc-3.5.x-git5e67120.ez).
+Available from the [Community Plugins archive](https://www.rabbitmq.com/community-plugins/),
+as well as its dependencies, [rabbitmq_jsonrpc](https://www.rabbitmq.com/community-plugins/v3.5.x/rabbitmq_jsonrpc-3.5.x-c34cb475.ez) and [erlang-rfc4627](https://www.rabbitmq.com/community-plugins/v3.5.x/rfc4627_jsonrpc-3.5.x-git5e67120.ez).
 
 ## Building From Source
 
 You can also compile and install it like any other plugin (see
-http://www.rabbitmq.com/plugin-development.html).
+https://www.rabbitmq.com/plugin-development.html).
 
 To install and activate the RabbitMQ JSON-RPC channel plugin, copy all
 the .ez packages *except rabbit_common* from the plugin's 'dist'
